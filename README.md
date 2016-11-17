@@ -22,3 +22,7 @@ Mittlerweile kann es aber auch in beide Richtungen synchronisieren und das sehr
 erfolgreich: Lokal -> OneDrive, OneDrive -> Lokal und OneDrive <> Lokal
 Letzteres synchronisiert die jüngere Datei an das andere Ende - ein Zusammenführen
 von beidseitigen Änderungen ist nicht vorgesehen.
+
+Wie funktioniert es?
+Für Entwickler -> README.build
+Für Anwender (&Entwickler) -> README.run
