@@ -24,5 +24,5 @@ Letzteres synchronisiert die jüngere Datei an das andere Ende - ein Zusammenfü
 von beidseitigen Änderungen ist nicht vorgesehen.
 
 Wie funktioniert es?
-Für Entwickler -> README.build
-Für Anwender (&Entwickler) -> README.run
+Für Entwickler -> README.build.txt
+Für Anwender (&Entwickler) -> README.run.txt
