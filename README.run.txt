@@ -1,5 +1,7 @@
 #OneDriveCli Programmstart
 
+Im Ordner BinaryRelease liegt eine Zipdatei, welche eine fertig kompilierte und lauffähige Version enthält.
+
 Wenn das Programm ohne Parameter gestartet wird erscheint die Hilfe.
 Es muss mindestens
 - ein lokales Verzeichnis und die
