@@ -5,8 +5,8 @@ Kommandozeilen basierter OneDrive Client für Microsofts OneDrive (vormals SkyDr
 
 Warum das?  
 Das vom Microsoft zur Verfügung gestellte OneDrive Tool hat den Nachteil, dass es
-einerseits nur unter Windows funktioniert und andererseits nur für den lokalen
-Windows Account vorgesehen ist.
+einerseits nur unter Windows funktioniert und andererseits nur für einen, mit dem
+lokalen Windows Account verbundenen OneDrive Account vorgesehen ist.
 
 Wie kam es dazu?  
 Ich habe 2 OneDrive Accounts und suchte nach einer Möglichkeit, einzelne/bestimmte
